@@ -1,0 +1,14 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+#first{
+    background-color: red;
+}
+.red{
+    background-color: red;
+}
+.bgcolor{
+    background-color: aqua;
+    color: rgb(228, 238, 89);
+}
